@@ -1,2 +1,2 @@
 #mostrar salida
-print ("nuestro archivo de python")
+print ("nuestro archivo de python") 
